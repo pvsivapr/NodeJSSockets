@@ -4,13 +4,17 @@
   "description": "This is a node js testing projects",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: I don't have any test yet :-[\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://sivaprasaddev@github.com/pvsivapr/NodeJSSockets.git"
   },
-  "author": "",
+  "keywords": [
+    "blog",
+    "openode"
+  ],
+  "author": "Sivaprasad",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/pvsivapr/NodeJSSockets/issues"
