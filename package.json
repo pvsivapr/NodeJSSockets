@@ -1,0 +1,23 @@
+{
+  "name": "nodejssockets",
+  "version": "1.0.0",
+  "description": "This is a node js testing projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://sivaprasaddev@github.com/pvsivapr/NodeJSSockets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pvsivapr/NodeJSSockets/issues"
+  },
+  "homepage": "https://github.com/pvsivapr/NodeJSSockets#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  }
+}
